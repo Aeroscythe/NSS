@@ -1,0 +1,44 @@
+Font: Nirmala UI  Style: Regular
+Point Size: 56   SP/PD Ratio: 8.9%
+
+Characters included: 96/128
+Missing characters: 32
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+ID: 2436	Hex: 984	Char [঄]
+ID: 2445	Hex: 98D	Char [঍]
+ID: 2446	Hex: 98E	Char [঎]
+ID: 2449	Hex: 991	Char [঑]
+ID: 2450	Hex: 992	Char [঒]
+ID: 2473	Hex: 9A9	Char [঩]
+ID: 2481	Hex: 9B1	Char [঱]
+ID: 2483	Hex: 9B3	Char [঳]
+ID: 2484	Hex: 9B4	Char [঴]
+ID: 2485	Hex: 9B5	Char [঵]
+ID: 2490	Hex: 9BA	Char [঺]
+ID: 2491	Hex: 9BB	Char [঻]
+ID: 2501	Hex: 9C5	Char [৅]
+ID: 2502	Hex: 9C6	Char [৆]
+ID: 2505	Hex: 9C9	Char [৉]
+ID: 2506	Hex: 9CA	Char [৊]
+ID: 2511	Hex: 9CF	Char [৏]
+ID: 2512	Hex: 9D0	Char [৐]
+ID: 2513	Hex: 9D1	Char [৑]
+ID: 2514	Hex: 9D2	Char [৒]
+ID: 2515	Hex: 9D3	Char [৓]
+ID: 2516	Hex: 9D4	Char [৔]
+ID: 2517	Hex: 9D5	Char [৕]
+ID: 2518	Hex: 9D6	Char [৖]
+ID: 2520	Hex: 9D8	Char [৘]
+ID: 2521	Hex: 9D9	Char [৙]
+ID: 2522	Hex: 9DA	Char [৚]
+ID: 2523	Hex: 9DB	Char [৛]
+ID: 2526	Hex: 9DE	Char [৞]
+ID: 2532	Hex: 9E4	Char [৤]
+ID: 2533	Hex: 9E5	Char [৥]
+ID: 2559	Hex: 9FF	Char [৿]
+
+Characters excluded from packing:
+----------------------------------------
